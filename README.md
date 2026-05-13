@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Swayam Sarthak Behera 👋
 
-<!--
-**swayamsar/swayamsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science student passionate about Machine Learning, Data Analytics, Java Development, UI/UX Design, and AI-based applications.
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- Python
+- MySQL
+- HTML/CSS/JavaScript
+- Machine Learning
+- Streamlit
+- Data Visualization
+- UI/UX Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- IBM Data Science
+- AWS Machine Learning
+-  Google/Coursera UI/UX Design
+
+## Interests
+- Artificial Intelligence
+- Data Analytics
+- Software Development
+- Sports Analytics
